@@ -2,7 +2,7 @@
 Modeling of a published clinical ketoconazole-digoxin DDI study for model evaluation
 
 ## Repository files
-Within this repository, we distribute a PK-Sim project file containing simulations of the published clinical study used to evaluate the predictive performance of the ketoconazole model [[1](https://www.mdpi.com/1999-4923/15/2/679)] regarding the DDI with the P-gp victim drug digoxin, including the respective observed data digitized from literature reports. The applied digoxin, has been published previously [[2](https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12343)]. For further details and documentation please refer to [[1](https://www.mdpi.com/1999-4923/15/2/679)].
+Within this repository, we distribute a PK-Sim project file containing simulations of the published clinical study used to evaluate the predictive performance of the ketoconazole model [[1](https://www.mdpi.com/1999-4923/15/2/679)] regarding the DDI with the P-gp victim drug digoxin, including the respective observed data digitized from literature reports. The applied digoxin model has been published previously [[2](https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/psp4.12343)]. For further details and documentation please refer to [[1](https://www.mdpi.com/1999-4923/15/2/679)].
 
 ## Version information
 
